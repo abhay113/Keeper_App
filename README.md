@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Live Preview [Create React App](https://abhay113.github.io/Keeper_App/)
+# Live Preview [Keeper App](https://abhay113.github.io/Keeper_App/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
